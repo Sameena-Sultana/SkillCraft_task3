@@ -1,4 +1,4 @@
-# SkillCraftTechnology-TASK3
+# SkillCraftTechnology_TASK3
 TASK-3 : Customer Purchase Prediction Using Decision Tree Classifier
 
 ##Project Overview: This project focuses on building a **Decision Tree Classifier** to predict whether a customer will purchase a product/service, using the Bank Marketing dataset from UCI Machine Learning Repository.
